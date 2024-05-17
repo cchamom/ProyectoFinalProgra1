@@ -1,0 +1,12 @@
+C:\Users\Cristian Chamo\Desktop\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Cristian Chamo\Desktop\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Cristian Chamo\Desktop\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Cristian Chamo\Desktop\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Cristian Chamo\Desktop\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Cristian Chamo\Desktop\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Cristian Chamo\Desktop\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Cristian Chamo\Desktop\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Cristian Chamo\Desktop\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Login.resources
+C:\Users\Cristian Chamo\Desktop\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.GestionDePasientes.resources
+C:\Users\Cristian Chamo\Desktop\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Registro.resources
